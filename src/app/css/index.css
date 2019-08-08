@@ -1,0 +1,26 @@
+body{
+  background: #eee;
+  margin: 20px;
+  font-family: tahoma;
+}
+
+#review-wrapper{
+  width: 50%;
+  margin: 0 auto;
+  background: #fff;
+  border-top: 3px solid #7f4cc1;
+  padding: 10px;
+  border-radius: 0px;
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.2);
+  color: #333;
+}
+
+#review-wrapper h3{
+  color: #777;
+  font-style: italic;
+}
+
+#review-list ul{
+  list-style-type: none;
+  padding: 0;
+}
